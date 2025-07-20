@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/e/MLOps/oppe/iris_mlops_demo/mlruns/0/862a7d4a362142d29d155a7bc8e2bb01/artifacts
+end_time: 1752999377683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 862a7d4a362142d29d155a7bc8e2bb01
+run_name: nervous-ant-85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752999374378
+status: 3
+tags: []
+user_id: akshay

@@ -1,0 +1,5 @@
+[core]
+    remote = gcs_remote
+['remote "gcs_remote"']
+    url = gs://sound-memory-461003-g3-exam-demo
+    credentialpath = /mnt/e/MLOps/imp/sound-memory-461003-g3-578e4c736dad.json

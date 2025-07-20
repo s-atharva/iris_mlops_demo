@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bf63590b5ae548928bf38b42cae34b51/artifacts
+end_time: 1752999693161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf63590b5ae548928bf38b42cae34b51
+run_name: redolent-pug-741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752999690227
+status: 3
+tags: []
+user_id: akshay

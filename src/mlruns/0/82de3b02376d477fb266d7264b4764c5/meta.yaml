@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/82de3b02376d477fb266d7264b4764c5/artifacts
+end_time: 1752999923267
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82de3b02376d477fb266d7264b4764c5
+run_name: Predict_Iris
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752999922392
+status: 3
+tags: []
+user_id: akshay

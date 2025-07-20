@@ -1,0 +1,5 @@
+project: iris_feast
+registry: data/registry.db
+provider: gcp
+offline_store:
+  type: bigquery
